@@ -6,7 +6,8 @@ function Nav() {
         <nav>
             <h2>Google Books</h2>
             <Link to="/">Search</Link>
-            <Link to="/saved">Saved</Link>
+            <br></br>
+            <Link to="/saved">Saved Books</Link>
         </nav>
     );
 }
